@@ -2,4 +2,4 @@ hi
 Jenkins polling test
 
 
-hi, we are testing the poll scm :)
+hi, we are testing our jenkins pipeline.
