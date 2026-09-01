@@ -4,7 +4,7 @@ pipeline {
 
         stage('Build') {
             steps {
-                echo 'Build the code using Maven as the build automation tool to compile and package the application. We made an update here!'
+                echo 'Build the code using Maven as the build automation tool to compile and package the application. We made an update here!#1'
             }
         }
 
